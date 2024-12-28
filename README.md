@@ -11,6 +11,15 @@ This project demonstrates how to build and deploy a fully functional API using a
 - Filteration & Searching Functionality
 - Sorting Functionality
 - Pagination
+
+
+
+## URL
+
+- Homepage : https://hostapi-production-d696.up.railway.app/
+- Product : https://hostapi-production-d696.up.railway.app/api/product
+- Function to use : ``` use Product Link add a ? and use sort, page, select, etc```
+- Example : https://hostapi-production-d696.up.railway.app/api/product?sort=-price
+
 #
 Happy Coding! 🚀❤
-
